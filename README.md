@@ -1,5 +1,4 @@
-==========================
-FastAPI base project
+Homework 1: FastAPI base project
 ==========================
 
 Packages installation
